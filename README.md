@@ -1,6 +1,6 @@
 # find-prime-numbers
 The code is made with Processing language.
-The algorithm uses the eratosthenes sieve to color yellow all the pixels that are prime as numbering.
+The algorithm uses the Eratosthenes sieve to color yellow all the pixels that are prime as numbering.
 Given a window with dimensions X and Y, and the first pixel in the upper left identified with the number 1, and continuing with the numbering, all the pixels with prime numbers are colored yellow.
 
 ```processing
